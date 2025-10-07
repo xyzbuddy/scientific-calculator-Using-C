@@ -1,7 +1,7 @@
 # scientific-calculator
  #### MINI LAB PROJECT REPORT.
 
-<img src="image/Use case.png" alt="Use case">
+![Scientific Calculator](/Image/Usecase.png)
 
 
  ##### This Report Presented in Partial Fulfillment of the course.CSE114: Programming and Problem Solving Lab in the Computer Science and Engineering Department
@@ -26,7 +26,9 @@ them needed for solving specific problems.
 evaluating their effectiveness based on industry standards.
 
 ##### Table 2: Mapping of CO, PO, Blooms, KP and CEP.
-<img src="image/Table 2.png" alt="Capter details">
+
+![Scientific Calculator](/Image/Table2.png)
+
 ### Chapter 1 — Introduction
 
 This chapter introduces the problem, motivation, objectives, feasibility, gap analysis, and
