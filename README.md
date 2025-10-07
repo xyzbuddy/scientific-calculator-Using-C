@@ -21,5 +21,5 @@ them needed for solving specific problems.
 <b> CO4 </b> Develop solutions for real-world complex problems applying OOP concepts while
 evaluating their effectiveness based on industry standards.
 
-##### Table 2: Mapping of CO, PO, Blooms, KP and CEP
+##### Table 2: Mapping of CO, PO, Blooms, KP and CEP.
 ![The Table Markdown](./image/Table%202.PNG)
