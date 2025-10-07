@@ -36,7 +36,6 @@ a text-based scientific calculator in C that uses standard mathematical librarie
 input validation to emulate features of a physical calculator within a console environment.
 
 <b> 1.2 Motivation </b>
-
 A command-line calculator is lightweight, fast, and platform-independent. Building it in C
 strengthens our understanding of modular programming, numerical computation, the C
 standard library (math.h), error handling, and team collaboration—skills directly applicable to
@@ -57,6 +56,7 @@ hyperbolic: sinh, cosh, tanh.
   <li>Allow repeated calculations in a loop until user exits; maintain a clean UX.</li>
 </ul>
 <b> 1.4 Feasibility Study</b>
+
 <ul>
   <li>Technical feasibility: Uses ANSI C and standard library functions (math.h), compilable
 with GCC/Clang/Code::Blocks on Windows/Linux. No third-party dependencies.</li>
@@ -64,7 +64,7 @@ with GCC/Clang/Code::Blocks on Windows/Linux. No third-party dependencies.</li>
 machines.</li>
   <li>Operational feasibility: Simple text UI; easy to use, learn, and test.</li>
 </ul>
-<b>1.5 Gap Analysis</b>
+<b>1.5 Gap Analysis </b>
 
 Many sample calculators handle only basic operations or omit domain validation. Our
 implementation covers a wider function set and emphasizes robust validation (e.g.,
