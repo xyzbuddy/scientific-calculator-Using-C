@@ -22,4 +22,4 @@ them needed for solving specific problems.
 evaluating their effectiveness based on industry standards.
 
 ##### Table 2: Mapping of CO, PO, Blooms, KP and CEP
-![The Table Markdown](./image/Table%202.PNG)
+![The Table Markdown](./Image/Table%202.png)
